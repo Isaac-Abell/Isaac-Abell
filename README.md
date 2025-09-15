@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Isaac Abell
 
 ## 📊 GitHub Stats
-![Top Languages](https://isaac-abell-github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Abell&layout=compact&langs_count=20&hide=css,html,dockerfile,batchfile)
+![Top Languages](https://isaac-abell-github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Abell&layout=compact&langs_count=20&hide=css,html,dockerfile,batchfile&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
