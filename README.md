@@ -19,6 +19,7 @@
 
 **Cloud Platforms**  
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com)
 
 
 ## 👀 Visitors
